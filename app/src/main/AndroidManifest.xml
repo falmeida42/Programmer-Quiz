@@ -11,10 +11,7 @@
         android:theme="@style/Theme.QuizApp">
         <activity
             android:name=".QuizQuestionActivity"
-            android:screenOrientation="portrait"
-            >
-
-        </activity>
+            android:screenOrientation="portrait"></activity>
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait"
