@@ -9,9 +9,9 @@ object Constants{
             1,
             "What country does this flag belong to?",
             R.drawable.ic_angular,
-            optionOne = "Angular",
+            optionOne = "Kotlin",
             optionTwo = "C++",
-            optionThree = "Kotlin",
+            optionThree = "Angular",
             optionFour = "Java",
             correctAnswer = 1
         )
