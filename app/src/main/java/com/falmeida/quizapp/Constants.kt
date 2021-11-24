@@ -7,15 +7,27 @@ object Constants{
 
         val que1 = Question(
             1,
-            "What country does this flag belong to?",
+            "What is the name of this framework?",
             R.drawable.ic_angular,
             optionOne = "Kotlin",
             optionTwo = "C++",
             optionThree = "Angular",
             optionFour = "Java",
-            correctAnswer = 1
+            correctAnswer = 3
         )
         questionList.add(que1)
+
+        val que2 = Question(
+            1,
+            "What is the name of this programming language?",
+            R.drawable.ic_javascript,
+            optionOne = "Javascript",
+            optionTwo = "Paschal",
+            optionThree = "Bootstrap",
+            optionFour = "Dart",
+            correctAnswer = 1
+        )
+        questionList.add(que2)
         return questionList
     }
 
