@@ -17,7 +17,8 @@
         android:text="Result"
         android:textColor="@android:color/white"
         android:textSize="25sp"
-        android:textStyle="bold"/>
+        android:textStyle="bold"
+        />
 
     <ImageView
         android:layout_marginTop="130dp"
@@ -65,6 +66,15 @@
         android:textColor="@color/purple_700"
         android:textSize="18sp"
         android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_share"
+        android:layout_width="wrap_content"
+        android:layout_height="34dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:text="Share"
+        android:textColor="@color/purple_700" />
 
 
 </LinearLayout>
