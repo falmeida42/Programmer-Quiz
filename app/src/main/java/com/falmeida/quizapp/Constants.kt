@@ -50,34 +50,34 @@ object Constants{
             "What is the name of this framework?",
             R.drawable.ic_flutter,
             optionOne = "Swift",
-            optionTwo = "Kotlin",
+            optionTwo = "Go",
             optionThree = "Flutter",
             optionFour = "React Native",
-            correctAnswer = 4
+            correctAnswer = 3
         )
         questionList.add(que4)
 
         val que5 = Question(
             5,
             "What is the name of this programming language?",
-            R.drawable.ic_java,
-            optionOne = "Java",
-            optionTwo = "Kotlin",
-            optionThree = "Flutter",
+            R.drawable.ic_semantic,
+            optionOne = "Ruby",
+            optionTwo = "Semantic",
+            optionThree = "SQLite",
             optionFour = "React Native",
-            correctAnswer = 1
+            correctAnswer = 2
         )
         questionList.add(que5)
 
         val que6 = Question(
             6,
             "What is the name of this programming language?",
-            R.drawable.ic_java,
-            optionOne = "Java",
-            optionTwo = "Kotlin",
-            optionThree = "Flutter",
-            optionFour = "React Native",
-            correctAnswer = 1
+            R.drawable.ic_vue,
+            optionOne = "Assembly",
+            optionTwo = "Python",
+            optionThree = "Perl",
+            optionFour = "Vue",
+            correctAnswer = 4
         )
         questionList.add(que6)
 
@@ -96,23 +96,23 @@ object Constants{
         val que8 = Question(
             8,
             "What is the name of this programming language?",
-            R.drawable.ic_java,
-            optionOne = "Java",
-            optionTwo = "Kotlin",
-            optionThree = "Flutter",
-            optionFour = "React Native",
-            correctAnswer = 1
+            R.drawable.ic_bootstrap,
+            optionOne = "Javascript",
+            optionTwo = "CSS",
+            optionThree = "Bootstrap",
+            optionFour = "MariaDB",
+            correctAnswer = 3
         )
         questionList.add(que8)
 
         val que9 = Question(
             5,
             "What is the name of this programming language?",
-            R.drawable.ic_java,
-            optionOne = "Java",
-            optionTwo = "Kotlin",
-            optionThree = "Flutter",
-            optionFour = "React Native",
+            R.drawable.ic_c,
+            optionOne = "C",
+            optionTwo = "HTML",
+            optionThree = "C++",
+            optionFour = "C#",
             correctAnswer = 1
         )
         questionList.add(que9)
@@ -120,12 +120,12 @@ object Constants{
         val que10 = Question(
             5,
             "What is the name of this programming language?",
-            R.drawable.ic_java,
+            R.drawable.ic_kotlin,
             optionOne = "Java",
             optionTwo = "Kotlin",
-            optionThree = "Flutter",
-            optionFour = "React Native",
-            correctAnswer = 1
+            optionThree = "Xamarim",
+            optionFour = "C++",
+            correctAnswer = 2
         )
         questionList.add(que10)
 
